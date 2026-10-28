@@ -28,7 +28,7 @@ En este repositorio encontrarás los archivos del proyecto desarrollado en Bitsy
 
 Si deseas jugar el laberinto directamente desde el navegador, puedes acceder a su página en itch.io.
 
-[**Jugar al proyecto en itch.io**](PEGAR_AQUÍ_EL_ENLACE_DE_ITCH_IO)
+[**Jugar al proyecto en itch.io**](https://eltipouy.itch.io/the-maze)
 
 ## 🎓 Uso educativo
 
